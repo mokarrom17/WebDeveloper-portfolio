@@ -138,3 +138,11 @@ main{
 .about-info{
     text-align: center;
 }
+#what-i-do-description{
+    margin: 30px 150px;
+}
+
+/* skill section*/
+.skill-container{
+    display: flex;
+}
